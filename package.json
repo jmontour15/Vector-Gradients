@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@parcel/config-default": "^2.16.0",
+    "gsap": "^3.13.0",
+    "lil-gui": "^0.20.0",
+    "nice-color-palettes": "^4.0.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.16.0",
+    "parcel": "^2.16.0"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  }
+}
